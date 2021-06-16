@@ -1,0 +1,8 @@
+
+.DS_Store
+*.pyc
+*.ipynb_checkpoints
+src/data/reds_cut_patch.py
+src/data/submission_reds.py
+__pycache__
+sftp-config.json

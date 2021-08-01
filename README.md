@@ -46,7 +46,7 @@ Place unzipped REDS dataset test images in ``--dir_data`` folder (like ``<dir_da
 
 For Deblur Track2 in NTIRE2021, you can download REDS dataset using this script [here](https://gist.github.com/SeungjunNah/b10d369b92840cb8dd2118dd4f41d643).
 Pre-trained model, which produces the results submitted to NTIRE challenge, can be downloaded from [model_cvprw21](https://www.dropbox.com/s/kz7tppzspgkhzux/model_best_patch320_epoch374.pt?dl=0)
-The inference result images on the validation set and the test set can be downloaded from [val_results](https://drive.google.com/file/d/1lSrlV1YK1URYhvEA4jOYfkVa-T3EHm-C/view?usp=sharing) and [test_results](https://drive.google.com/file/d/1EbmC8wsH0BPZpGrVK5CPNAC2y3ISmsJS/view?usp=sharing), respectively.
+The inference result images on the validation set and the test set can be downloaded from [val_results](https://www.dropbox.com/s/vqgzqunxn13ulnv/submission-REDS_VAL_20210320_08-42.tar.gz?dl=0) and [test_results](https://www.dropbox.com/s/t4iwefp71bobqbv/submission-REDS_TEST_20210320_08-59.tar.gz?dl=0), respectively.
 
 ### Using Jupyter notebook
 Run the ``main.ipynb`` in the ``src`` folder. 
